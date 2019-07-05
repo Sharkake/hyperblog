@@ -6,4 +6,4 @@ Hoy hara lo posible por hacer historia.
 
 Es mas facil de tratar con el una vez que lo conoces.
 
-El se encarga de programar en java y angular.
+El se encarga de programar en java y react.
